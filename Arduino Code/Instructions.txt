@@ -1,0 +1,1 @@
+This is a simple prototype for a laser gesture sensing module designed to preliminary detect simple hand gestures.
